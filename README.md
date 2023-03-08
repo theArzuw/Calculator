@@ -1,3 +1,3 @@
 # GameProject
 
-- This is a Calculator that I designed using different programming languages == https://github.com/arzuusadecee/CalculatorGame
+- This is a Calculator that I designed using different programming languages == https://github.com/theArzuw/CalculatorGame
